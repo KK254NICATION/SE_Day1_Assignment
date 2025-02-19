@@ -18,6 +18,7 @@ C. Agile Manifesto (2001) - The Agile Manifesto introduced a flexible, iterative
     Testing - Ensuring functionality and fixing defects.
     Deployment - Releasing the software to users.
     Maintenance - Updating and fixing issues post-deployment.
+
 **4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
     A. Waterfall Methodology:
         a. Sequential and structured.
@@ -25,22 +26,27 @@ C. Agile Manifesto (2001) - The Agile Manifesto introduced a flexible, iterative
     B. Agile Methodology:
         a. Iterative and flexible.
         b. Best for projects requiring continuous updates (e.g., mobile apps, web services).
+
 **5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.**
     a. Software Developer - Writes and maintains code.
     b. Quality Assurance Engineer - Tests software to identify and resolve defects.
     c.Project Manager - Oversees project scope, timeline, and coordination among team members.
+
 **6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
     a. IDEs (e.g., Visual Studio Code, IntelliJ IDEA) provide tools for efficient coding, debugging, and testing.
     b. VCS (e.g., Git, SVN) enables version tracking, collaboration, and rollback capabilities.
+
 **7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
     a. Managing Complexity - Use modular design and documentation.
     b. Meeting Deadlines - Employ Agile methodologies and task prioritization.
     c. Debugging Issues - Implement thorough testing and logging mechanisms.
+
 **8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.**
     a. Unit Testing - Tests individual components.
     b. Integration Testing - Ensures modules work together.
     c. System Testing - Validates the entire application.
     d. Acceptance Testing - Confirms software meets business needs.
+
 **#Part 2: Introduction to AI and Prompt Engineering**
 
 **1. Define prompt engineering and discuss its importance in interacting with AI models.**
