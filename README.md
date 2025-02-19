@@ -33,10 +33,12 @@ C. Agile Manifesto (2001) - The Agile Manifesto introduced a flexible, iterative
     c.Project Manager - Oversees project scope, timeline, and coordination among team members.
 
 **6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
+    
     a. IDEs (e.g., Visual Studio Code, IntelliJ IDEA) provide tools for efficient coding, debugging, and testing.
     b. VCS (e.g., Git, SVN) enables version tracking, collaboration, and rollback capabilities.
 
 **7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
+   
     a. Managing Complexity - Use modular design and documentation.
     b. Meeting Deadlines - Employ Agile methodologies and task prioritization.
     c. Debugging Issues - Implement thorough testing and logging mechanisms.
@@ -52,7 +54,7 @@ C. Agile Manifesto (2001) - The Agile Manifesto introduced a flexible, iterative
 
 **1. Define prompt engineering and discuss its importance in interacting with AI models.**
 
-    Prompt engineering involves designing effective inputs for AI models to achieve desired responses. It enhances interaction with AI, improving accuracy and relevance.
+  Prompt engineering involves designing effective inputs for AI models to achieve desired responses. It enhances interaction with AI, improving accuracy and relevance.
 
 **2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
 
